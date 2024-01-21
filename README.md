@@ -1,7 +1,7 @@
-# Vain-Miner-1.8
+# Vein-Miner-1.8
 Vain-miner
 
-This plugin is a called (Vain Miner) it's pretty simple.
+This plugin is a called (Vein Miner) it's pretty simple.
 
 Step 1: Download the plugin                                            
 Step 2: Find the plugin                                   
