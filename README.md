@@ -9,4 +9,4 @@ Step 3: Put the plugin in the plugins folder
 Step 4: YOUR DONE! Just restart the server and you are set.
 
 
-*(We did add the buildable source-code for those that wanted it)*
+**(We did add the buildable source-code for those that wanted it)**
